@@ -1,3 +1,2 @@
-# activite-9
-Code en php pour prédire si un lancé sera pile ou face.
-Ce travail est pour le cours d'environnement web du collège Maisonneuve.
+# Exercice en PHP pour débutant
+Code en php permettant de prédire si un lancé d'une pièce sera pile ou face.
